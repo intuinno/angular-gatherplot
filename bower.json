@@ -1,0 +1,37 @@
+{
+  "name": "angular-gatherplot",
+  "version": "0.0.1",
+  "description": "Angular directive for gatherplot",
+  "main": [
+    "js/directives/gatherplot.js",
+    "styles/main.css"
+  ],
+  "dependencies": {
+    "angular": "^1.3.0",
+  },
+  "devDependencies": {
+    "firebase": "2.2.2",
+    "angularfire": "1.0.0",
+    "bootstrap": "^3.2.0",
+    "angular-animate": "^1.3.0",
+    "angular-cookies": "^1.3.0",
+    "angular-resource": "^1.3.0",
+    "angular-route": "^1.3.0",
+    "angular-sanitize": "^1.3.0",
+    "angular-touch": "^1.3.0",
+    "mockfirebase": "0.11.0",
+    "angular-mocks": "^1.3.0"
+  },
+  "authors": [
+    "Deok Gun Park",
+    "Deok Gun Park <intuinno@gmail.com>",
+    "Deok Gun Park <intuinno@gmail.com (http://www.intuinno.com)"
+  ], 
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/intuinno/angular-gatherplot.git"
+  },
+  "license": "GPL-2.0",
+  "appPath": "app",
+  "moduleName": "angularGatherplotDemoApp"
+}
