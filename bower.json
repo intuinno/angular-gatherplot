@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Angular directive for gatherplot",
   "main": [
-    "js/directives/gatherplot.js",
-    "styles/main.css"
+    "app/scripts/directives/gatherplot.js",
+    "app/styles/gatherplot.css"
   ],
   "dependencies": {
     "angular": "^1.3.0",
@@ -25,7 +25,7 @@
   "authors": [
     "Deok Gun Park",
     "Deok Gun Park <intuinno@gmail.com>",
-    "Deok Gun Park <intuinno@gmail.com (http://www.intuinno.com)"
+    "Deok Gun Park <intuinno@gmail.com> (http://www.intuinno.com)"
   ], 
   "repository": {
     "type": "git",
